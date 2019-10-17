@@ -1,0 +1,2433 @@
+fileFormatVersion: 2
+guid: b17880f5b02593e4b9b2f20683d1bfc5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_AnQuanDai_grp
+    100004: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_Extra
+    100006: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_1
+    100008: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_1_1
+    100010: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_1_2
+    100012: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_2
+    100014: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3
+    100016: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_1
+    100018: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_1_1
+    100020: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_1_2
+    100022: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_2
+    100024: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_3
+    100026: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_4
+    100028: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_5
+    100030: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_6
+    100032: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_7
+    100034: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_4
+    100036: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_5
+    100038: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_6
+    100040: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_6_1
+    100042: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_6_2
+    100044: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_6_3
+    100046: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_6_4
+    100048: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_6_5
+    100050: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_6_6
+    100052: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_6_7
+    100054: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_grp
+    100056: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai12
+    100058: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai13
+    100060: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai16
+    100062: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai17
+    100064: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai20
+    100066: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai21
+    100068: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai24
+    100070: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai25
+    100072: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai28
+    100074: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai29
+    100076: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai32
+    100078: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai33
+    100080: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai36
+    100082: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai37
+    100084: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    100086: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 1
+    100088: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 10
+    100090: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 11
+    100092: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 12
+    100094: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 13
+    100096: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 2
+    100098: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 3
+    100100: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 4
+    100102: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 5
+    100104: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 6
+    100106: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 7
+    100108: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 8
+    100110: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 9
+    100112: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    100114: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 1
+    100116: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 10
+    100118: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 11
+    100120: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 12
+    100122: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 13
+    100124: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 2
+    100126: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 3
+    100128: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 4
+    100130: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 5
+    100132: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 6
+    100134: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 7
+    100136: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 8
+    100138: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 9
+    100140: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    100142: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 1
+    100144: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 10
+    100146: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 11
+    100148: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 12
+    100150: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 13
+    100152: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 2
+    100154: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 3
+    100156: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 4
+    100158: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 5
+    100160: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 6
+    100162: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 7
+    100164: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 8
+    100166: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 9
+    100168: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    100170: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 1
+    100172: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 10
+    100174: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 11
+    100176: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 12
+    100178: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 13
+    100180: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 2
+    100182: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 3
+    100184: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 4
+    100186: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 5
+    100188: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 6
+    100190: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 7
+    100192: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 8
+    100194: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 9
+    100196: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    100198: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 1
+    100200: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 10
+    100202: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 11
+    100204: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 12
+    100206: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 13
+    100208: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 2
+    100210: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 3
+    100212: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 4
+    100214: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 5
+    100216: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 6
+    100218: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 7
+    100220: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 8
+    100222: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 9
+    100224: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    100226: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 1
+    100228: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 10
+    100230: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 11
+    100232: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 12
+    100234: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 13
+    100236: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 2
+    100238: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 3
+    100240: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 4
+    100242: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 5
+    100244: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 6
+    100246: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 7
+    100248: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 8
+    100250: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 9
+    100252: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    100254: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 1
+    100256: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 10
+    100258: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 11
+    100260: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 12
+    100262: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 13
+    100264: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 2
+    100266: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 3
+    100268: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 4
+    100270: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 5
+    100272: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 6
+    100274: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 7
+    100276: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 8
+    100278: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 9
+    100280: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    100282: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 1
+    100284: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 10
+    100286: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 11
+    100288: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 12
+    100290: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 13
+    100292: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 2
+    100294: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 3
+    100296: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 4
+    100298: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 5
+    100300: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 6
+    100302: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 7
+    100304: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 8
+    100306: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 9
+    100308: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    100310: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 1
+    100312: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 10
+    100314: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 11
+    100316: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 12
+    100318: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 13
+    100320: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 2
+    100322: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 3
+    100324: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 4
+    100326: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 5
+    100328: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 6
+    100330: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 7
+    100332: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 8
+    100334: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 9
+    100336: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    100338: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 1
+    100340: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 10
+    100342: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 11
+    100344: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 12
+    100346: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 13
+    100348: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 2
+    100350: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 3
+    100352: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 4
+    100354: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 5
+    100356: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 6
+    100358: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 7
+    100360: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 8
+    100362: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 9
+    100364: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4
+    100366: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 1
+    100368: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 10
+    100370: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 11
+    100372: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 12
+    100374: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 13
+    100376: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 14
+    100378: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 2
+    100380: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 3
+    100382: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 4
+    100384: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 5
+    100386: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 6
+    100388: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 7
+    100390: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 8
+    100392: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 9
+    100394: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai40
+    100396: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai41
+    100398: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai44
+    100400: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai45
+    100402: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai48
+    100404: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai49
+    100406: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    100408: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 1
+    100410: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 10
+    100412: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 11
+    100414: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 12
+    100416: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 13
+    100418: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 2
+    100420: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 3
+    100422: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 4
+    100424: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 5
+    100426: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 6
+    100428: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 7
+    100430: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 8
+    100432: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 9
+    100434: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    100436: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 1
+    100438: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 10
+    100440: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 11
+    100442: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 12
+    100444: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 13
+    100446: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 2
+    100448: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 3
+    100450: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 4
+    100452: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 5
+    100454: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 6
+    100456: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 7
+    100458: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 8
+    100460: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 9
+    100462: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    100464: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 1
+    100466: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 10
+    100468: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 11
+    100470: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 12
+    100472: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 13
+    100474: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 2
+    100476: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 3
+    100478: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 4
+    100480: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 5
+    100482: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 6
+    100484: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 7
+    100486: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 8
+    100488: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 9
+    100490: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    100492: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 1
+    100494: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 10
+    100496: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 11
+    100498: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 12
+    100500: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 13
+    100502: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 2
+    100504: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 3
+    100506: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 4
+    100508: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 5
+    100510: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 6
+    100512: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 7
+    100514: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 8
+    100516: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 9
+    100518: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    100520: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 1
+    100522: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 10
+    100524: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 11
+    100526: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 12
+    100528: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 13
+    100530: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 2
+    100532: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 3
+    100534: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 4
+    100536: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 5
+    100538: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 6
+    100540: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 7
+    100542: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 8
+    100544: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 9
+    100546: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    100548: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 1
+    100550: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 10
+    100552: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 11
+    100554: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 12
+    100556: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 13
+    100558: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 2
+    100560: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 3
+    100562: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 4
+    100564: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 5
+    100566: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 6
+    100568: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 7
+    100570: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 8
+    100572: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 9
+    100574: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    100576: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 1
+    100578: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 10
+    100580: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 11
+    100582: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 12
+    100584: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 13
+    100586: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 2
+    100588: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 3
+    100590: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 4
+    100592: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 5
+    100594: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 6
+    100596: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 7
+    100598: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 8
+    100600: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 9
+    100602: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    100604: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 1
+    100606: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 10
+    100608: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 11
+    100610: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 12
+    100612: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 13
+    100614: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 2
+    100616: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 3
+    100618: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 4
+    100620: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 5
+    100622: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 6
+    100624: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 7
+    100626: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 8
+    100628: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 9
+    100630: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    100632: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 1
+    100634: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 10
+    100636: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 11
+    100638: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 12
+    100640: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 13
+    100642: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 2
+    100644: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 3
+    100646: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 4
+    100648: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 5
+    100650: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 6
+    100652: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 7
+    100654: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 8
+    100656: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 9
+    100658: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    100660: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 1
+    100662: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 10
+    100664: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 11
+    100666: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 12
+    100668: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 13
+    100670: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 2
+    100672: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 3
+    100674: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 4
+    100676: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 5
+    100678: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 6
+    100680: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 7
+    100682: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 8
+    100684: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 9
+    100686: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai5
+    100688: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai52
+    100690: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai53
+    100692: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai56
+    100694: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai57
+    100696: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai8
+    100698: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai9
+    100700: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig1
+    100702: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig10
+    100704: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig11
+    100706: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig12
+    100708: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig13
+    100710: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig14
+    100712: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig2
+    100714: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig3
+    100716: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig4
+    100718: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig5
+    100720: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig6
+    100722: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig7
+    100724: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig8
+    100726: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig9
+    100728: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1
+    100730: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 1
+    100732: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 10
+    100734: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 11
+    100736: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 12
+    100738: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 13
+    100740: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 2
+    100742: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 3
+    100744: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 4
+    100746: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 5
+    100748: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 6
+    100750: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 7
+    100752: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 8
+    100754: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 9
+    100756: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2
+    100758: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 1
+    100760: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 10
+    100762: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 11
+    100764: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 12
+    100766: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 13
+    100768: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 2
+    100770: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 3
+    100772: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 4
+    100774: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 5
+    100776: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 6
+    100778: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 7
+    100780: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 8
+    100782: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 9
+    100784: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1
+    100786: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 1
+    100788: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 10
+    100790: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 11
+    100792: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 12
+    100794: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 13
+    100796: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 2
+    100798: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 3
+    100800: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 4
+    100802: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 5
+    100804: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 6
+    100806: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 7
+    100808: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 8
+    100810: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 9
+    100812: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2
+    100814: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 1
+    100816: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 10
+    100818: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 11
+    100820: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 12
+    100822: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 13
+    100824: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 2
+    100826: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 3
+    100828: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 4
+    100830: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 5
+    100832: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 6
+    100834: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 7
+    100836: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 8
+    100838: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 9
+    100840: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1
+    100842: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 1
+    100844: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 10
+    100846: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 11
+    100848: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 12
+    100850: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 13
+    100852: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 2
+    100854: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 3
+    100856: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 4
+    100858: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 5
+    100860: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 6
+    100862: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 7
+    100864: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 8
+    100866: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 9
+    100868: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2
+    100870: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 1
+    100872: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 10
+    100874: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 11
+    100876: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 12
+    100878: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 13
+    100880: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 2
+    100882: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 3
+    100884: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 4
+    100886: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 5
+    100888: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 6
+    100890: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 7
+    100892: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 8
+    100894: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 9
+    100896: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi
+    100898: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi 1
+    100900: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi 2
+    100902: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi 3
+    100904: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi 4
+    100906: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi 5
+    100908: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi 6
+    100910: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi1
+    100912: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi2
+    100914: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi3
+    100916: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi4
+    100918: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi5
+    100920: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi6
+    100922: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi7
+    100924: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_Model
+    100926: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube11
+    100928: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube12
+    100930: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube13
+    100932: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube14
+    100934: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube15
+    100936: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube16
+    100938: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube17
+    100940: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube18
+    100942: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube19
+    100944: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube20
+    100946: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube21
+    100948: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube22
+    100950: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube23
+    100952: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube24
+    100954: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube25
+    100956: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube26
+    100958: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube27
+    100960: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube28
+    100962: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube29
+    100964: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube30
+    100966: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube31
+    100968: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube32
+    100970: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube33
+    100972: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube34
+    100974: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube35
+    100976: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube36
+    100978: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube37
+    100980: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube38
+    100982: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube39
+    100984: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube40
+    100986: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube41
+    100988: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube42
+    100990: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube43
+    100992: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube44
+    100994: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube45
+    100996: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube46
+    100998: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube47
+    101000: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube48
+    101002: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube49
+    101004: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube50
+    101006: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube51
+    101008: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube52
+    101010: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube53
+    101012: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube54
+    101014: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube55
+    101016: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube56
+    101018: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube57
+    101020: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube58
+    101022: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube59
+    101024: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube60
+    101026: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube61
+    101028: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube62
+    101030: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube63
+    101032: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube64
+    101034: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube65
+    101036: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube66
+    101038: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube67
+    101040: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube68
+    101042: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube69
+    101044: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube70
+    101046: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube71
+    101048: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube72
+    101050: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube73
+    101052: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube74
+    101054: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube75
+    101056: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube76
+    101058: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube77
+    101060: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube78
+    101062: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface11138
+    101064: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface11139
+    101066: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1517
+    101068: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1518
+    101070: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1519
+    101072: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1520
+    101074: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1521
+    101076: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1522
+    101078: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1529
+    101080: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1544
+    101082: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1574
+    101084: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface2
+    101086: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface3
+    101088: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34925
+    101090: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34941
+    101092: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34949
+    101094: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34981
+    101096: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34989
+    101098: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34997
+    101100: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35005
+    101102: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35021
+    101104: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35029
+    101106: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35037
+    101108: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35045
+    101110: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35053
+    101112: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35061
+    101114: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35077
+    101116: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35085
+    101118: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35117
+    101120: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35125
+    101122: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35133
+    101124: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35141
+    101126: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35157
+    101128: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35165
+    101130: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35173
+    101132: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35181
+    101134: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35189
+    101136: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35197
+    101138: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35312
+    101140: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35314
+    101142: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35316
+    101144: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35318
+    101146: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35320
+    101148: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35322
+    101150: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35326
+    101152: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35328
+    101154: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35330
+    101156: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35332
+    101158: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35334
+    101160: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35336
+    101162: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35345
+    101164: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35347
+    101166: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35349
+    101168: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35351
+    101170: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35353
+    101172: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35355
+    101174: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface4
+    101176: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface7
+    101178: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface831
+    101180: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_rig_base_GuoShanChe_group3_6_1
+    101182: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_rig_base_GuoShanChe_group3_6_2
+    101184: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_rig_base_GuoShanChe_group3_6_3
+    101186: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_rig_base_GuoShanChe_group3_6_4
+    101188: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_rig_base_GuoShanChe_group3_6_5
+    101190: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_rig_base_GuoShanChe_group3_6_6
+    101192: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_rig_base_GuoShanChe_group3_6_7
+    101194: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_S_guoshangche_rig
+    101196: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_World_Ctrl1
+    101198: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_World_Ctrl2
+    101200: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_World_Ctrl3
+    101202: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_World_Ctrl4
+    101204: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_World_Ctrl5
+    101206: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_World_Ctrl6
+    101208: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_World_Ctrl7
+    101210: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_YuLeSheShi_grp
+    101212: S_YouLeYuan_Tex_SC021:Model
+    101214: S_YouLeYuan_Tex_SC021:YuLeSheShi_grp
+    400000: //RootNode
+    400002: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_AnQuanDai_grp
+    400004: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_Extra
+    400006: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_1
+    400008: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_1_1
+    400010: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_1_2
+    400012: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_2
+    400014: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3
+    400016: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_1
+    400018: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_1_1
+    400020: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_1_2
+    400022: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_2
+    400024: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_3
+    400026: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_4
+    400028: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_5
+    400030: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_6
+    400032: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_7
+    400034: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_4
+    400036: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_5
+    400038: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_6
+    400040: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_6_1
+    400042: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_6_2
+    400044: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_6_3
+    400046: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_6_4
+    400048: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_6_5
+    400050: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_6_6
+    400052: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_6_7
+    400054: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_grp
+    400056: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai12
+    400058: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai13
+    400060: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai16
+    400062: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai17
+    400064: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai20
+    400066: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai21
+    400068: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai24
+    400070: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai25
+    400072: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai28
+    400074: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai29
+    400076: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai32
+    400078: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai33
+    400080: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai36
+    400082: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai37
+    400084: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    400086: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 1
+    400088: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 10
+    400090: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 11
+    400092: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 12
+    400094: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 13
+    400096: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 2
+    400098: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 3
+    400100: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 4
+    400102: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 5
+    400104: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 6
+    400106: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 7
+    400108: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 8
+    400110: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 9
+    400112: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    400114: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 1
+    400116: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 10
+    400118: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 11
+    400120: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 12
+    400122: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 13
+    400124: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 2
+    400126: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 3
+    400128: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 4
+    400130: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 5
+    400132: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 6
+    400134: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 7
+    400136: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 8
+    400138: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 9
+    400140: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    400142: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 1
+    400144: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 10
+    400146: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 11
+    400148: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 12
+    400150: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 13
+    400152: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 2
+    400154: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 3
+    400156: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 4
+    400158: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 5
+    400160: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 6
+    400162: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 7
+    400164: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 8
+    400166: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 9
+    400168: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    400170: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 1
+    400172: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 10
+    400174: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 11
+    400176: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 12
+    400178: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 13
+    400180: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 2
+    400182: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 3
+    400184: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 4
+    400186: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 5
+    400188: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 6
+    400190: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 7
+    400192: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 8
+    400194: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 9
+    400196: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    400198: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 1
+    400200: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 10
+    400202: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 11
+    400204: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 12
+    400206: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 13
+    400208: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 2
+    400210: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 3
+    400212: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 4
+    400214: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 5
+    400216: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 6
+    400218: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 7
+    400220: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 8
+    400222: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 9
+    400224: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    400226: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 1
+    400228: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 10
+    400230: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 11
+    400232: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 12
+    400234: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 13
+    400236: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 2
+    400238: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 3
+    400240: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 4
+    400242: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 5
+    400244: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 6
+    400246: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 7
+    400248: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 8
+    400250: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 9
+    400252: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    400254: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 1
+    400256: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 10
+    400258: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 11
+    400260: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 12
+    400262: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 13
+    400264: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 2
+    400266: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 3
+    400268: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 4
+    400270: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 5
+    400272: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 6
+    400274: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 7
+    400276: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 8
+    400278: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 9
+    400280: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    400282: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 1
+    400284: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 10
+    400286: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 11
+    400288: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 12
+    400290: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 13
+    400292: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 2
+    400294: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 3
+    400296: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 4
+    400298: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 5
+    400300: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 6
+    400302: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 7
+    400304: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 8
+    400306: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 9
+    400308: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    400310: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 1
+    400312: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 10
+    400314: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 11
+    400316: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 12
+    400318: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 13
+    400320: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 2
+    400322: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 3
+    400324: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 4
+    400326: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 5
+    400328: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 6
+    400330: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 7
+    400332: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 8
+    400334: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 9
+    400336: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    400338: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 1
+    400340: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 10
+    400342: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 11
+    400344: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 12
+    400346: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 13
+    400348: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 2
+    400350: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 3
+    400352: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 4
+    400354: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 5
+    400356: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 6
+    400358: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 7
+    400360: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 8
+    400362: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 9
+    400364: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4
+    400366: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 1
+    400368: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 10
+    400370: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 11
+    400372: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 12
+    400374: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 13
+    400376: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 14
+    400378: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 2
+    400380: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 3
+    400382: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 4
+    400384: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 5
+    400386: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 6
+    400388: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 7
+    400390: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 8
+    400392: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4 9
+    400394: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai40
+    400396: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai41
+    400398: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai44
+    400400: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai45
+    400402: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai48
+    400404: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai49
+    400406: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    400408: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 1
+    400410: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 10
+    400412: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 11
+    400414: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 12
+    400416: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 13
+    400418: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 2
+    400420: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 3
+    400422: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 4
+    400424: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 5
+    400426: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 6
+    400428: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 7
+    400430: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 8
+    400432: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 9
+    400434: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    400436: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 1
+    400438: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 10
+    400440: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 11
+    400442: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 12
+    400444: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 13
+    400446: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 2
+    400448: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 3
+    400450: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 4
+    400452: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 5
+    400454: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 6
+    400456: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 7
+    400458: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 8
+    400460: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 9
+    400462: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    400464: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 1
+    400466: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 10
+    400468: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 11
+    400470: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 12
+    400472: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 13
+    400474: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 2
+    400476: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 3
+    400478: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 4
+    400480: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 5
+    400482: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 6
+    400484: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 7
+    400486: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 8
+    400488: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 9
+    400490: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    400492: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 1
+    400494: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 10
+    400496: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 11
+    400498: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 12
+    400500: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 13
+    400502: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 2
+    400504: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 3
+    400506: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 4
+    400508: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 5
+    400510: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 6
+    400512: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 7
+    400514: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 8
+    400516: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 9
+    400518: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    400520: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 1
+    400522: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 10
+    400524: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 11
+    400526: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 12
+    400528: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 13
+    400530: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 2
+    400532: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 3
+    400534: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 4
+    400536: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 5
+    400538: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 6
+    400540: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 7
+    400542: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 8
+    400544: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 9
+    400546: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    400548: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 1
+    400550: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 10
+    400552: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 11
+    400554: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 12
+    400556: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 13
+    400558: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 2
+    400560: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 3
+    400562: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 4
+    400564: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 5
+    400566: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 6
+    400568: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 7
+    400570: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 8
+    400572: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 9
+    400574: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    400576: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 1
+    400578: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 10
+    400580: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 11
+    400582: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 12
+    400584: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 13
+    400586: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 2
+    400588: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 3
+    400590: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 4
+    400592: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 5
+    400594: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 6
+    400596: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 7
+    400598: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 8
+    400600: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 9
+    400602: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    400604: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 1
+    400606: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 10
+    400608: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 11
+    400610: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 12
+    400612: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 13
+    400614: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 2
+    400616: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 3
+    400618: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 4
+    400620: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 5
+    400622: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 6
+    400624: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 7
+    400626: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 8
+    400628: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 9
+    400630: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    400632: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 1
+    400634: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 10
+    400636: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 11
+    400638: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 12
+    400640: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 13
+    400642: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 2
+    400644: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 3
+    400646: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 4
+    400648: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 5
+    400650: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 6
+    400652: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 7
+    400654: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 8
+    400656: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 9
+    400658: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    400660: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 1
+    400662: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 10
+    400664: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 11
+    400666: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 12
+    400668: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 13
+    400670: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 2
+    400672: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 3
+    400674: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 4
+    400676: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 5
+    400678: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 6
+    400680: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 7
+    400682: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 8
+    400684: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 9
+    400686: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai5
+    400688: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai52
+    400690: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai53
+    400692: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai56
+    400694: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai57
+    400696: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai8
+    400698: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai9
+    400700: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig1
+    400702: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig10
+    400704: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig11
+    400706: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig12
+    400708: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig13
+    400710: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig14
+    400712: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig2
+    400714: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig3
+    400716: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig4
+    400718: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig5
+    400720: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig6
+    400722: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig7
+    400724: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig8
+    400726: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai_rig9
+    400728: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1
+    400730: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 1
+    400732: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 10
+    400734: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 11
+    400736: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 12
+    400738: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 13
+    400740: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 2
+    400742: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 3
+    400744: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 4
+    400746: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 5
+    400748: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 6
+    400750: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 7
+    400752: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 8
+    400754: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve1 9
+    400756: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2
+    400758: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 1
+    400760: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 10
+    400762: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 11
+    400764: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 12
+    400766: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 13
+    400768: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 2
+    400770: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 3
+    400772: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 4
+    400774: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 5
+    400776: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 6
+    400778: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 7
+    400780: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 8
+    400782: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__curve2 9
+    400784: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1
+    400786: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 1
+    400788: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 10
+    400790: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 11
+    400792: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 12
+    400794: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 13
+    400796: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 2
+    400798: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 3
+    400800: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 4
+    400802: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 5
+    400804: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 6
+    400806: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 7
+    400808: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 8
+    400810: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint1 9
+    400812: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2
+    400814: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 1
+    400816: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 10
+    400818: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 11
+    400820: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 12
+    400822: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 13
+    400824: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 2
+    400826: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 3
+    400828: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 4
+    400830: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 5
+    400832: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 6
+    400834: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 7
+    400836: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 8
+    400838: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__joint2 9
+    400840: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1
+    400842: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 1
+    400844: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 10
+    400846: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 11
+    400848: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 12
+    400850: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 13
+    400852: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 2
+    400854: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 3
+    400856: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 4
+    400858: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 5
+    400860: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 6
+    400862: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 7
+    400864: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 8
+    400866: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null1 9
+    400868: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2
+    400870: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 1
+    400872: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 10
+    400874: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 11
+    400876: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 12
+    400878: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 13
+    400880: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 2
+    400882: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 3
+    400884: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 4
+    400886: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 5
+    400888: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 6
+    400890: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 7
+    400892: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 8
+    400894: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__null2 9
+    400896: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi
+    400898: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi 1
+    400900: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi 2
+    400902: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi 3
+    400904: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi 4
+    400906: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi 5
+    400908: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi 6
+    400910: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi1
+    400912: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi2
+    400914: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi3
+    400916: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi4
+    400918: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi5
+    400920: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi6
+    400922: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__YiZi7
+    400924: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_Model
+    400926: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube11
+    400928: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube12
+    400930: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube13
+    400932: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube14
+    400934: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube15
+    400936: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube16
+    400938: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube17
+    400940: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube18
+    400942: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube19
+    400944: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube20
+    400946: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube21
+    400948: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube22
+    400950: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube23
+    400952: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube24
+    400954: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube25
+    400956: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube26
+    400958: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube27
+    400960: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube28
+    400962: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube29
+    400964: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube30
+    400966: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube31
+    400968: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube32
+    400970: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube33
+    400972: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube34
+    400974: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube35
+    400976: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube36
+    400978: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube37
+    400980: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube38
+    400982: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube39
+    400984: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube40
+    400986: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube41
+    400988: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube42
+    400990: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube43
+    400992: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube44
+    400994: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube45
+    400996: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube46
+    400998: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube47
+    401000: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube48
+    401002: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube49
+    401004: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube50
+    401006: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube51
+    401008: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube52
+    401010: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube53
+    401012: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube54
+    401014: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube55
+    401016: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube56
+    401018: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube57
+    401020: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube58
+    401022: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube59
+    401024: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube60
+    401026: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube61
+    401028: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube62
+    401030: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube63
+    401032: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube64
+    401034: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube65
+    401036: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube66
+    401038: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube67
+    401040: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube68
+    401042: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube69
+    401044: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube70
+    401046: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube71
+    401048: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube72
+    401050: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube73
+    401052: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube74
+    401054: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube75
+    401056: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube76
+    401058: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube77
+    401060: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube78
+    401062: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface11138
+    401064: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface11139
+    401066: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1517
+    401068: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1518
+    401070: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1519
+    401072: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1520
+    401074: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1521
+    401076: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1522
+    401078: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1529
+    401080: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1544
+    401082: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1574
+    401084: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface2
+    401086: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface3
+    401088: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34925
+    401090: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34941
+    401092: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34949
+    401094: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34981
+    401096: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34989
+    401098: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34997
+    401100: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35005
+    401102: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35021
+    401104: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35029
+    401106: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35037
+    401108: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35045
+    401110: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35053
+    401112: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35061
+    401114: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35077
+    401116: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35085
+    401118: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35117
+    401120: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35125
+    401122: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35133
+    401124: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35141
+    401126: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35157
+    401128: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35165
+    401130: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35173
+    401132: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35181
+    401134: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35189
+    401136: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35197
+    401138: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35312
+    401140: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35314
+    401142: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35316
+    401144: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35318
+    401146: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35320
+    401148: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35322
+    401150: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35326
+    401152: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35328
+    401154: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35330
+    401156: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35332
+    401158: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35334
+    401160: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35336
+    401162: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35345
+    401164: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35347
+    401166: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35349
+    401168: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35351
+    401170: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35353
+    401172: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35355
+    401174: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface4
+    401176: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface7
+    401178: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface831
+    401180: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_rig_base_GuoShanChe_group3_6_1
+    401182: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_rig_base_GuoShanChe_group3_6_2
+    401184: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_rig_base_GuoShanChe_group3_6_3
+    401186: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_rig_base_GuoShanChe_group3_6_4
+    401188: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_rig_base_GuoShanChe_group3_6_5
+    401190: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_rig_base_GuoShanChe_group3_6_6
+    401192: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_rig_base_GuoShanChe_group3_6_7
+    401194: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_S_guoshangche_rig
+    401196: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_World_Ctrl1
+    401198: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_World_Ctrl2
+    401200: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_World_Ctrl3
+    401202: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_World_Ctrl4
+    401204: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_World_Ctrl5
+    401206: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_World_Ctrl6
+    401208: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_World_Ctrl7
+    401210: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_YuLeSheShi_grp
+    401212: S_YouLeYuan_Tex_SC021:Model
+    401214: S_YouLeYuan_Tex_SC021:YuLeSheShi_grp
+    2100000: lambert1
+    2300000: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_1_1
+    2300002: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_1_2
+    2300004: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_2
+    2300006: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_1_1
+    2300008: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_1_2
+    2300010: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    2300012: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 1
+    2300014: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 10
+    2300016: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 11
+    2300018: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 12
+    2300020: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 13
+    2300022: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 2
+    2300024: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 3
+    2300026: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 4
+    2300028: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 5
+    2300030: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 6
+    2300032: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 7
+    2300034: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 8
+    2300036: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 9
+    2300038: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    2300040: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 1
+    2300042: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 10
+    2300044: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 11
+    2300046: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 12
+    2300048: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 13
+    2300050: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 2
+    2300052: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 3
+    2300054: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 4
+    2300056: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 5
+    2300058: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 6
+    2300060: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 7
+    2300062: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 8
+    2300064: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 9
+    2300066: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    2300068: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 1
+    2300070: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 10
+    2300072: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 11
+    2300074: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 12
+    2300076: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 13
+    2300078: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 2
+    2300080: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 3
+    2300082: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 4
+    2300084: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 5
+    2300086: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 6
+    2300088: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 7
+    2300090: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 8
+    2300092: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 9
+    2300094: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    2300096: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 1
+    2300098: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 10
+    2300100: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 11
+    2300102: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 12
+    2300104: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 13
+    2300106: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 2
+    2300108: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 3
+    2300110: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 4
+    2300112: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 5
+    2300114: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 6
+    2300116: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 7
+    2300118: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 8
+    2300120: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 9
+    2300122: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    2300124: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 1
+    2300126: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 10
+    2300128: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 11
+    2300130: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 12
+    2300132: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 13
+    2300134: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 2
+    2300136: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 3
+    2300138: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 4
+    2300140: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 5
+    2300142: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 6
+    2300144: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 7
+    2300146: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 8
+    2300148: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 9
+    2300150: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    2300152: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 1
+    2300154: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 10
+    2300156: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 11
+    2300158: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 12
+    2300160: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 13
+    2300162: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 2
+    2300164: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 3
+    2300166: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 4
+    2300168: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 5
+    2300170: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 6
+    2300172: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 7
+    2300174: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 8
+    2300176: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 9
+    2300178: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    2300180: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 1
+    2300182: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 10
+    2300184: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 11
+    2300186: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 12
+    2300188: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 13
+    2300190: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 2
+    2300192: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 3
+    2300194: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 4
+    2300196: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 5
+    2300198: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 6
+    2300200: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 7
+    2300202: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 8
+    2300204: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 9
+    2300206: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    2300208: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 1
+    2300210: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 10
+    2300212: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 11
+    2300214: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 12
+    2300216: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 13
+    2300218: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 2
+    2300220: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 3
+    2300222: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 4
+    2300224: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 5
+    2300226: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 6
+    2300228: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 7
+    2300230: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 8
+    2300232: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 9
+    2300234: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    2300236: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 1
+    2300238: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 10
+    2300240: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 11
+    2300242: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 12
+    2300244: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 13
+    2300246: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 2
+    2300248: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 3
+    2300250: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 4
+    2300252: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 5
+    2300254: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 6
+    2300256: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 7
+    2300258: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 8
+    2300260: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 9
+    2300262: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    2300264: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 1
+    2300266: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 10
+    2300268: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 11
+    2300270: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 12
+    2300272: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 13
+    2300274: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 2
+    2300276: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 3
+    2300278: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 4
+    2300280: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 5
+    2300282: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 6
+    2300284: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 7
+    2300286: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 8
+    2300288: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 9
+    2300290: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    2300292: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 1
+    2300294: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 10
+    2300296: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 11
+    2300298: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 12
+    2300300: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 13
+    2300302: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 2
+    2300304: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 3
+    2300306: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 4
+    2300308: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 5
+    2300310: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 6
+    2300312: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 7
+    2300314: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 8
+    2300316: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 9
+    2300318: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    2300320: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 1
+    2300322: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 10
+    2300324: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 11
+    2300326: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 12
+    2300328: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 13
+    2300330: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 2
+    2300332: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 3
+    2300334: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 4
+    2300336: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 5
+    2300338: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 6
+    2300340: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 7
+    2300342: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 8
+    2300344: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 9
+    2300346: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube11
+    2300348: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube12
+    2300350: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube13
+    2300352: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube14
+    2300354: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube15
+    2300356: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube16
+    2300358: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube17
+    2300360: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube18
+    2300362: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube19
+    2300364: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube20
+    2300366: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube21
+    2300368: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube22
+    2300370: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube23
+    2300372: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube24
+    2300374: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube25
+    2300376: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube26
+    2300378: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube27
+    2300380: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube28
+    2300382: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube29
+    2300384: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube30
+    2300386: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube31
+    2300388: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube32
+    2300390: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube33
+    2300392: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube34
+    2300394: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube35
+    2300396: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube36
+    2300398: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube37
+    2300400: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube38
+    2300402: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube39
+    2300404: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube40
+    2300406: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube41
+    2300408: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube42
+    2300410: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube43
+    2300412: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube44
+    2300414: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube45
+    2300416: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube46
+    2300418: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube47
+    2300420: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube48
+    2300422: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube49
+    2300424: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube50
+    2300426: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube51
+    2300428: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube52
+    2300430: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube53
+    2300432: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube54
+    2300434: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube55
+    2300436: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube56
+    2300438: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube57
+    2300440: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube58
+    2300442: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube59
+    2300444: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube60
+    2300446: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube61
+    2300448: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube62
+    2300450: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube63
+    2300452: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube64
+    2300454: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube65
+    2300456: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube66
+    2300458: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube67
+    2300460: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube68
+    2300462: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube69
+    2300464: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube70
+    2300466: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube71
+    2300468: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube72
+    2300470: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube73
+    2300472: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube74
+    2300474: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube75
+    2300476: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube76
+    2300478: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube77
+    2300480: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube78
+    2300482: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface11138
+    2300484: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface11139
+    2300486: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1517
+    2300488: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1518
+    2300490: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1519
+    2300492: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1520
+    2300494: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1521
+    2300496: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1522
+    2300498: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1529
+    2300500: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1544
+    2300502: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1574
+    2300504: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface2
+    2300506: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface3
+    2300508: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34925
+    2300510: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34941
+    2300512: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34949
+    2300514: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34981
+    2300516: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34989
+    2300518: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34997
+    2300520: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35005
+    2300522: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35021
+    2300524: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35029
+    2300526: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35037
+    2300528: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35045
+    2300530: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35053
+    2300532: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35061
+    2300534: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35077
+    2300536: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35085
+    2300538: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35117
+    2300540: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35125
+    2300542: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35133
+    2300544: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35141
+    2300546: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35157
+    2300548: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35165
+    2300550: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35173
+    2300552: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35181
+    2300554: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35189
+    2300556: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35197
+    2300558: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35312
+    2300560: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35314
+    2300562: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35316
+    2300564: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35318
+    2300566: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35320
+    2300568: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35322
+    2300570: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35326
+    2300572: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35328
+    2300574: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35330
+    2300576: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35332
+    2300578: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35334
+    2300580: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35336
+    2300582: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35345
+    2300584: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35347
+    2300586: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35349
+    2300588: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35351
+    2300590: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35353
+    2300592: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35355
+    2300594: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface4
+    2300596: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface7
+    2300598: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface831
+    3300000: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_1_1
+    3300002: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_1_2
+    3300004: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_2
+    3300006: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_1_1
+    3300008: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_1_2
+    3300010: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    3300012: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 1
+    3300014: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 10
+    3300016: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 11
+    3300018: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 12
+    3300020: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 13
+    3300022: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 2
+    3300024: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 3
+    3300026: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 4
+    3300028: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 5
+    3300030: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 6
+    3300032: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 7
+    3300034: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 8
+    3300036: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3 9
+    3300038: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    3300040: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 1
+    3300042: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 10
+    3300044: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 11
+    3300046: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 12
+    3300048: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 13
+    3300050: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 2
+    3300052: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 3
+    3300054: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 4
+    3300056: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 5
+    3300058: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 6
+    3300060: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 7
+    3300062: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 8
+    3300064: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4 9
+    3300066: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    3300068: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 1
+    3300070: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 10
+    3300072: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 11
+    3300074: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 12
+    3300076: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 13
+    3300078: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 2
+    3300080: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 3
+    3300082: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 4
+    3300084: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 5
+    3300086: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 6
+    3300088: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 7
+    3300090: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 8
+    3300092: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5 9
+    3300094: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    3300096: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 1
+    3300098: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 10
+    3300100: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 11
+    3300102: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 12
+    3300104: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 13
+    3300106: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 2
+    3300108: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 3
+    3300110: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 4
+    3300112: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 5
+    3300114: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 6
+    3300116: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 7
+    3300118: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 8
+    3300120: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6 9
+    3300122: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    3300124: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 1
+    3300126: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 10
+    3300128: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 11
+    3300130: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 12
+    3300132: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 13
+    3300134: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 2
+    3300136: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 3
+    3300138: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 4
+    3300140: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 5
+    3300142: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 6
+    3300144: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 7
+    3300146: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 8
+    3300148: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7 9
+    3300150: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    3300152: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 1
+    3300154: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 10
+    3300156: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 11
+    3300158: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 12
+    3300160: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 13
+    3300162: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 2
+    3300164: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 3
+    3300166: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 4
+    3300168: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 5
+    3300170: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 6
+    3300172: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 7
+    3300174: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 8
+    3300176: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8 9
+    3300178: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    3300180: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 1
+    3300182: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 10
+    3300184: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 11
+    3300186: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 12
+    3300188: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 13
+    3300190: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 2
+    3300192: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 3
+    3300194: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 4
+    3300196: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 5
+    3300198: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 6
+    3300200: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 7
+    3300202: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 8
+    3300204: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3 9
+    3300206: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    3300208: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 1
+    3300210: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 10
+    3300212: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 11
+    3300214: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 12
+    3300216: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 13
+    3300218: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 2
+    3300220: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 3
+    3300222: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 4
+    3300224: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 5
+    3300226: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 6
+    3300228: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 7
+    3300230: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 8
+    3300232: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4 9
+    3300234: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    3300236: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 1
+    3300238: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 10
+    3300240: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 11
+    3300242: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 12
+    3300244: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 13
+    3300246: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 2
+    3300248: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 3
+    3300250: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 4
+    3300252: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 5
+    3300254: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 6
+    3300256: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 7
+    3300258: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 8
+    3300260: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5 9
+    3300262: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    3300264: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 1
+    3300266: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 10
+    3300268: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 11
+    3300270: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 12
+    3300272: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 13
+    3300274: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 2
+    3300276: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 3
+    3300278: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 4
+    3300280: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 5
+    3300282: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 6
+    3300284: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 7
+    3300286: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 8
+    3300288: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6 9
+    3300290: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    3300292: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 1
+    3300294: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 10
+    3300296: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 11
+    3300298: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 12
+    3300300: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 13
+    3300302: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 2
+    3300304: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 3
+    3300306: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 4
+    3300308: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 5
+    3300310: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 6
+    3300312: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 7
+    3300314: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 8
+    3300316: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7 9
+    3300318: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    3300320: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 1
+    3300322: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 10
+    3300324: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 11
+    3300326: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 12
+    3300328: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 13
+    3300330: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 2
+    3300332: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 3
+    3300334: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 4
+    3300336: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 5
+    3300338: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 6
+    3300340: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 7
+    3300342: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 8
+    3300344: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8 9
+    3300346: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube11
+    3300348: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube12
+    3300350: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube13
+    3300352: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube14
+    3300354: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube15
+    3300356: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube16
+    3300358: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube17
+    3300360: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube18
+    3300362: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube19
+    3300364: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube20
+    3300366: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube21
+    3300368: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube22
+    3300370: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube23
+    3300372: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube24
+    3300374: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube25
+    3300376: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube26
+    3300378: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube27
+    3300380: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube28
+    3300382: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube29
+    3300384: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube30
+    3300386: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube31
+    3300388: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube32
+    3300390: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube33
+    3300392: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube34
+    3300394: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube35
+    3300396: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube36
+    3300398: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube37
+    3300400: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube38
+    3300402: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube39
+    3300404: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube40
+    3300406: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube41
+    3300408: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube42
+    3300410: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube43
+    3300412: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube44
+    3300414: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube45
+    3300416: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube46
+    3300418: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube47
+    3300420: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube48
+    3300422: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube49
+    3300424: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube50
+    3300426: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube51
+    3300428: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube52
+    3300430: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube53
+    3300432: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube54
+    3300434: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube55
+    3300436: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube56
+    3300438: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube57
+    3300440: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube58
+    3300442: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube59
+    3300444: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube60
+    3300446: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube61
+    3300448: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube62
+    3300450: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube63
+    3300452: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube64
+    3300454: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube65
+    3300456: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube66
+    3300458: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube67
+    3300460: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube68
+    3300462: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube69
+    3300464: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube70
+    3300466: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube71
+    3300468: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube72
+    3300470: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube73
+    3300472: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube74
+    3300474: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube75
+    3300476: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube76
+    3300478: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube77
+    3300480: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube78
+    3300482: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface11138
+    3300484: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface11139
+    3300486: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1517
+    3300488: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1518
+    3300490: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1519
+    3300492: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1520
+    3300494: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1521
+    3300496: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1522
+    3300498: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1529
+    3300500: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1544
+    3300502: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1574
+    3300504: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface2
+    3300506: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface3
+    3300508: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34925
+    3300510: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34941
+    3300512: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34949
+    3300514: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34981
+    3300516: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34989
+    3300518: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34997
+    3300520: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35005
+    3300522: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35021
+    3300524: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35029
+    3300526: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35037
+    3300528: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35045
+    3300530: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35053
+    3300532: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35061
+    3300534: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35077
+    3300536: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35085
+    3300538: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35117
+    3300540: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35125
+    3300542: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35133
+    3300544: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35141
+    3300546: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35157
+    3300548: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35165
+    3300550: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35173
+    3300552: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35181
+    3300554: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35189
+    3300556: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35197
+    3300558: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35312
+    3300560: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35314
+    3300562: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35316
+    3300564: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35318
+    3300566: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35320
+    3300568: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35322
+    3300570: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35326
+    3300572: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35328
+    3300574: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35330
+    3300576: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35332
+    3300578: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35334
+    3300580: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35336
+    3300582: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35345
+    3300584: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35347
+    3300586: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35349
+    3300588: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35351
+    3300590: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35353
+    3300592: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35355
+    3300594: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface4
+    3300596: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface7
+    3300598: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface831
+    4300000: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_1_1
+    4300002: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_1_2
+    4300004: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_2
+    4300006: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_1_1
+    4300008: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_GuoShanChe_group3_3_1_2
+    4300010: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1574
+    4300012: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1544
+    4300014: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1529
+    4300016: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35355
+    4300018: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35351
+    4300020: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35347
+    4300022: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1519
+    4300024: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1517
+    4300026: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1518
+    4300028: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1522
+    4300030: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1520
+    4300032: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface1521
+    4300034: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35353
+    4300036: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35349
+    4300038: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35345
+    4300040: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface11138
+    4300042: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface11139
+    4300044: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube11
+    4300046: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube12
+    4300048: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube13
+    4300050: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube14
+    4300052: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube15
+    4300054: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube16
+    4300056: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube17
+    4300058: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube18
+    4300060: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube19
+    4300062: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube20
+    4300064: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube21
+    4300066: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube22
+    4300068: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube23
+    4300070: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube24
+    4300072: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube25
+    4300074: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube26
+    4300076: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube27
+    4300078: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube28
+    4300080: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube29
+    4300082: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube30
+    4300084: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube31
+    4300086: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube32
+    4300088: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube33
+    4300090: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube34
+    4300092: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube35
+    4300094: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube36
+    4300096: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube37
+    4300098: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube38
+    4300100: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube39
+    4300102: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube40
+    4300104: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube41
+    4300106: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube42
+    4300108: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube43
+    4300110: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube44
+    4300112: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube45
+    4300114: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube46
+    4300116: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube47
+    4300118: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube48
+    4300120: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube49
+    4300122: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube50
+    4300124: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube51
+    4300126: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube52
+    4300128: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube53
+    4300130: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube54
+    4300132: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube55
+    4300134: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube56
+    4300136: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube57
+    4300138: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube58
+    4300140: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube59
+    4300142: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube60
+    4300144: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube61
+    4300146: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube62
+    4300148: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube63
+    4300150: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube64
+    4300152: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube65
+    4300154: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube66
+    4300156: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube67
+    4300158: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube68
+    4300160: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube69
+    4300162: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube70
+    4300164: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube71
+    4300166: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube72
+    4300168: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube73
+    4300170: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube74
+    4300172: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube75
+    4300174: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube76
+    4300176: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube77
+    4300178: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_pCube78
+    4300180: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34925
+    4300182: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface2
+    4300184: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface3
+    4300186: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface4
+    4300188: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface7
+    4300190: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface831
+    4300192: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    4300194: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    4300196: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    4300198: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    4300200: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    4300202: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    4300204: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    4300206: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    4300208: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    4300210: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    4300212: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    4300214: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    4300216: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    4300218: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    4300220: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    4300222: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    4300224: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    4300226: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    4300228: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    4300230: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    4300232: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    4300234: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    4300236: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    4300238: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    4300240: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35322
+    4300242: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35336
+    4300244: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35005
+    4300246: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35061
+    4300248: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35141
+    4300250: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35197
+    4300252: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    4300254: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    4300256: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    4300258: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    4300260: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    4300262: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    4300264: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    4300266: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    4300268: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    4300270: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    4300272: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    4300274: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    4300276: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    4300278: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    4300280: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    4300282: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    4300284: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    4300286: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    4300288: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    4300290: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    4300292: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    4300294: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    4300296: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    4300298: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    4300300: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35320
+    4300302: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35334
+    4300304: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34997
+    4300306: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35053
+    4300308: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35133
+    4300310: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35189
+    4300312: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    4300314: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    4300316: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    4300318: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    4300320: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    4300322: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    4300324: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    4300326: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    4300328: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    4300330: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    4300332: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    4300334: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    4300336: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    4300338: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    4300340: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    4300342: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    4300344: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    4300346: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    4300348: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    4300350: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    4300352: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    4300354: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    4300356: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    4300358: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    4300360: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35318
+    4300362: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35332
+    4300364: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34989
+    4300366: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35045
+    4300368: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35125
+    4300370: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35181
+    4300372: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    4300374: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    4300376: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    4300378: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    4300380: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    4300382: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    4300384: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    4300386: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    4300388: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    4300390: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    4300392: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    4300394: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    4300396: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    4300398: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    4300400: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    4300402: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    4300404: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    4300406: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    4300408: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    4300410: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    4300412: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    4300414: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    4300416: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    4300418: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    4300420: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35316
+    4300422: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35330
+    4300424: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34981
+    4300426: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35037
+    4300428: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35117
+    4300430: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35173
+    4300432: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    4300434: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    4300436: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    4300438: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    4300440: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    4300442: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    4300444: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    4300446: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    4300448: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    4300450: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    4300452: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    4300454: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    4300456: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    4300458: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    4300460: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    4300462: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    4300464: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    4300466: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    4300468: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    4300470: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    4300472: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    4300474: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    4300476: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    4300478: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    4300480: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35314
+    4300482: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35328
+    4300484: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34949
+    4300486: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35029
+    4300488: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35085
+    4300490: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35165
+    4300492: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    4300494: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    4300496: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    4300498: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    4300500: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    4300502: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    4300504: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    4300506: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    4300508: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    4300510: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    4300512: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    4300514: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    4300516: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    4300518: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    4300520: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    4300522: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    4300524: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    4300526: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    4300528: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    4300530: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    4300532: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    4300534: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    4300536: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    4300538: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    4300540: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35312
+    4300542: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35326
+    4300544: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface34941
+    4300546: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35021
+    4300548: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35077
+    4300550: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_polySurface35157
+    4300552: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    4300554: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    4300556: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    4300558: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    4300560: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    4300562: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    4300564: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    4300566: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    4300568: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    4300570: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    4300572: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    4300574: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    4300576: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_3
+    4300578: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_4
+    4300580: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_5
+    4300582: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_6
+    4300584: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_7
+    4300586: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_8
+    4300588: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_4
+    4300590: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_3
+    4300592: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_5
+    4300594: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_6
+    4300596: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_7
+    4300598: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_8
+    4300600: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    4300602: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    4300604: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    4300606: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    4300608: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    4300610: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    4300612: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    4300614: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    4300616: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    4300618: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    4300620: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    4300622: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    4300624: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    4300626: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    4300628: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    4300630: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    4300632: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    4300634: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    4300636: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    4300638: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    4300640: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    4300642: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    4300644: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    4300646: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    4300648: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    4300650: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    4300652: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    4300654: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    4300656: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    4300658: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    4300660: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    4300662: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    4300664: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    4300666: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    4300668: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    4300670: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    4300672: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    4300674: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    4300676: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    4300678: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    4300680: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    4300682: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    4300684: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    4300686: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    4300688: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    4300690: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    4300692: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    4300694: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    4300696: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    4300698: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    4300700: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    4300702: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    4300704: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    4300706: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    4300708: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    4300710: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    4300712: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    4300714: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    4300716: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    4300718: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    4300720: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    4300722: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    4300724: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    4300726: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    4300728: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    4300730: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    4300732: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    4300734: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    4300736: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    4300738: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    4300740: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    4300742: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    4300744: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    4300746: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    4300748: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    4300750: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    4300752: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    4300754: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    4300756: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    4300758: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    4300760: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    4300762: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    4300764: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    4300766: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    4300768: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    4300770: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    4300772: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    4300774: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    4300776: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    4300778: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    4300780: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    4300782: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    4300784: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    4300786: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    4300788: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    4300790: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    4300792: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    4300794: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    4300796: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    4300798: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    4300800: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    4300802: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    4300804: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    4300806: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    4300808: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    4300810: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    4300812: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    4300814: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    4300816: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    4300818: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    4300820: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    4300822: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    9500000: //RootNode
+    13700000: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1
+    13700002: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 1
+    13700004: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 10
+    13700006: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 11
+    13700008: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 12
+    13700010: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 13
+    13700012: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 2
+    13700014: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 3
+    13700016: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 4
+    13700018: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 5
+    13700020: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 6
+    13700022: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 7
+    13700024: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 8
+    13700026: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_1 9
+    13700028: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10
+    13700030: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 1
+    13700032: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 10
+    13700034: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 11
+    13700036: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 12
+    13700038: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 13
+    13700040: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 2
+    13700042: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 3
+    13700044: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 4
+    13700046: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 5
+    13700048: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 6
+    13700050: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 7
+    13700052: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 8
+    13700054: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_10 9
+    13700056: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2
+    13700058: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 1
+    13700060: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 10
+    13700062: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 11
+    13700064: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 12
+    13700066: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 13
+    13700068: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 2
+    13700070: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 3
+    13700072: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 4
+    13700074: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 5
+    13700076: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 6
+    13700078: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 7
+    13700080: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 8
+    13700082: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_2 9
+    13700084: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9
+    13700086: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 1
+    13700088: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 10
+    13700090: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 11
+    13700092: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 12
+    13700094: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 13
+    13700096: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 2
+    13700098: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 3
+    13700100: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 4
+    13700102: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 5
+    13700104: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 6
+    13700106: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 7
+    13700108: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 8
+    13700110: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai3_9 9
+    13700112: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1
+    13700114: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 1
+    13700116: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 10
+    13700118: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 11
+    13700120: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 12
+    13700122: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 13
+    13700124: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 2
+    13700126: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 3
+    13700128: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 4
+    13700130: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 5
+    13700132: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 6
+    13700134: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 7
+    13700136: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 8
+    13700138: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_1 9
+    13700140: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10
+    13700142: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 1
+    13700144: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 10
+    13700146: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 11
+    13700148: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 12
+    13700150: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 13
+    13700152: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 2
+    13700154: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 3
+    13700156: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 4
+    13700158: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 5
+    13700160: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 6
+    13700162: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 7
+    13700164: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 8
+    13700166: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_10 9
+    13700168: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2
+    13700170: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 1
+    13700172: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 10
+    13700174: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 11
+    13700176: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 12
+    13700178: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 13
+    13700180: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 2
+    13700182: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 3
+    13700184: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 4
+    13700186: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 5
+    13700188: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 6
+    13700190: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 7
+    13700192: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 8
+    13700194: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_2 9
+    13700196: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9
+    13700198: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 1
+    13700200: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 10
+    13700202: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 11
+    13700204: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 12
+    13700206: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 13
+    13700208: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 2
+    13700210: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 3
+    13700212: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 4
+    13700214: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 5
+    13700216: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 6
+    13700218: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 7
+    13700220: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 8
+    13700222: S_YouLeYuan_Tex_SC021:GuoShanChe_rig_IMP__AnQuanDai4_9 9
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

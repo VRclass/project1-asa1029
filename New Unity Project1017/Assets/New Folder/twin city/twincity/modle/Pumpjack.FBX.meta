@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 8487b1be3e2665a439b0c6e327b4125c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Dummy001
+    100002: Dummy005
+    100004: Dummy006
+    100006: Dummy007
+    100008: Dummy008
+    100010: Dummy009
+    100012: Dummy010
+    100014: Dummy011
+    100016: Dummy012
+    100018: Dummy013
+    100020: Line028
+    100022: Object001
+    100024: Object002
+    100026: PhysCamera001
+    100028: PhysCamera001.Target
+    100030: PhysCamera002
+    100032: PhysCamera002.Target
+    100034: PhysCamera003
+    100036: PhysCamera003.Target
+    100038: PhysCamera004
+    100040: PhysCamera004.Target
+    100042: Point001
+    100044: Point002
+    100046: Point003
+    100048: Point004
+    100050: Point005
+    100052: Point006
+    100054: //RootNode
+    100056: Pumpjack_00
+    100058: Pumpjack_02
+    100060: Pumpjack_03
+    100062: Pumpjack_04
+    100064: Pumpjack_05
+    100066: Pumpjack_15
+    100068: Pumpjack_16
+    100070: Pumpjack_17
+    100072: Pumpjack_18
+    100074: Pumpjack_29
+    100076: Pumpjack_30
+    100078: Pumpjack_32
+    100080: VRayLight001
+    100082: VRayLight002
+    100084: VRayLight003
+    400000: Dummy001
+    400002: Dummy005
+    400004: Dummy006
+    400006: Dummy007
+    400008: Dummy008
+    400010: Dummy009
+    400012: Dummy010
+    400014: Dummy011
+    400016: Dummy012
+    400018: Dummy013
+    400020: Line028
+    400022: Object001
+    400024: Object002
+    400026: PhysCamera001
+    400028: PhysCamera001.Target
+    400030: PhysCamera002
+    400032: PhysCamera002.Target
+    400034: PhysCamera003
+    400036: PhysCamera003.Target
+    400038: PhysCamera004
+    400040: PhysCamera004.Target
+    400042: Point001
+    400044: Point002
+    400046: Point003
+    400048: Point004
+    400050: Point005
+    400052: Point006
+    400054: //RootNode
+    400056: Pumpjack_00
+    400058: Pumpjack_02
+    400060: Pumpjack_03
+    400062: Pumpjack_04
+    400064: Pumpjack_05
+    400066: Pumpjack_15
+    400068: Pumpjack_16
+    400070: Pumpjack_17
+    400072: Pumpjack_18
+    400074: Pumpjack_29
+    400076: Pumpjack_30
+    400078: Pumpjack_32
+    400080: VRayLight001
+    400082: VRayLight002
+    400084: VRayLight003
+    2100000: Pumpjack_3
+    2100002: Pumpjack_4
+    2100004: Pumpjack_1
+    2100006: Pumpjack_2
+    2100008: Pumpjack_5
+    2100010: Pumpjack_6
+    2100012: 'Material #81'
+    2300000: Line028
+    2300002: Object001
+    2300004: Object002
+    2300006: Pumpjack_00
+    2300008: Pumpjack_02
+    2300010: Pumpjack_03
+    2300012: Pumpjack_04
+    2300014: Pumpjack_05
+    2300016: Pumpjack_15
+    2300018: Pumpjack_16
+    2300020: Pumpjack_17
+    2300022: Pumpjack_18
+    2300024: Pumpjack_29
+    2300026: Pumpjack_30
+    2300028: Pumpjack_32
+    3300000: Line028
+    3300002: Object001
+    3300004: Object002
+    3300006: Pumpjack_00
+    3300008: Pumpjack_02
+    3300010: Pumpjack_03
+    3300012: Pumpjack_04
+    3300014: Pumpjack_05
+    3300016: Pumpjack_15
+    3300018: Pumpjack_16
+    3300020: Pumpjack_17
+    3300022: Pumpjack_18
+    3300024: Pumpjack_29
+    3300026: Pumpjack_30
+    3300028: Pumpjack_32
+    4300000: Pumpjack_04
+    4300002: Pumpjack_05
+    4300004: Pumpjack_16
+    4300006: Pumpjack_17
+    4300008: Pumpjack_18
+    4300010: Pumpjack_29
+    4300012: Pumpjack_30
+    4300014: Pumpjack_00
+    4300016: Object001
+    4300018: Pumpjack_03
+    4300020: Pumpjack_02
+    4300022: Pumpjack_32
+    4300024: Pumpjack_15
+    4300026: Line028
+    4300028: Object002
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
